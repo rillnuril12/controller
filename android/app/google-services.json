@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186265408883",
+    "project_id": "kontroller-3a410",
+    "storage_bucket": "kontroller-3a410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186265408883:android:0b8c74337b6055951d2106",
+        "android_client_info": {
+          "package_name": "com.kontroler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186265408883-7atpdphbnl3uj3gp0igaqa0ai1tgshel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWR3ZtZw3vXALN0ExvoeVmoR-cD-PO55w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186265408883-7atpdphbnl3uj3gp0igaqa0ai1tgshel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
